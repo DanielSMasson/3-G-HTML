@@ -1,0 +1,25 @@
+body {
+    color:azure;
+    background: black;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+header { 
+    border-bottom: solid 2px azure;
+    padding: 10px;
+    font-size: 32px;
+    
+}
+
+section {
+    background: grey;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada-texto { 
+    margin-right: 5%;
+}
